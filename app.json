@@ -1,0 +1,9 @@
+{
+  "name": "dmt",
+  "displayName": "dmt",
+  "splash": {
+    "image": "./splash.jpg",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}
